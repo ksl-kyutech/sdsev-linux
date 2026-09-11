@@ -12,7 +12,6 @@
 
 #define DEBUG		/* Enable initcall_debug */
 
-
 //追加
 #include <asm/sbi.h>
 #include <linux/pvalidate.h>

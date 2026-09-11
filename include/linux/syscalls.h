@@ -1214,6 +1214,7 @@ asmlinkage long sys_ni_syscall(void);
 
 asmlinkage long sys_ni_posix_timers(void);
 
+
 //追加
 asmlinkage long sys_snp_guest_request(void);
 

@@ -852,7 +852,6 @@ __SYSCALL(__NR_removexattrat, sys_removexattrat)
 #define __NR_open_tree_attr 467
 __SYSCALL(__NR_open_tree_attr, sys_open_tree_attr)
 
-
 //追加
 #define __NR_snp_guest_request 468
 __SYSCALL(__NR_snp_guest_request, sys_snp_guest_request)

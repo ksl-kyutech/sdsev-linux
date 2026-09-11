@@ -15,6 +15,7 @@
 #include <linux/spinlock.h>
 #include <xen/xen.h>
 
+
 #include <asm/sbi.h> //追加
 #include <linux/genalloc.h>
 

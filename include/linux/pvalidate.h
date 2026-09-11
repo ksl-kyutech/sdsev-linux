@@ -1,0 +1,1 @@
+unsigned int sys_pvalidate(unsigned long gpa);
